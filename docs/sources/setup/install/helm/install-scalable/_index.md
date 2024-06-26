@@ -294,5 +294,5 @@ bloomGateway:
 To configure other storage providers, refer to the [Helm Chart Reference]({{< relref "../reference" >}}).
 
 ## Next Steps 
-* Configure an agent to [send log data to Loki](/docs/loki/<LOKI_VERSION>/send-data/).
+* Configure a client to [send log data to Loki](/docs/loki/<LOKI_VERSION>/send-data/).
 * Monitor the Loki deployment using the [Meta Monitoring Healm chart](/docs/loki/<LOKI_VERSION>/setup/install/helm/monitor-and-alert/)
